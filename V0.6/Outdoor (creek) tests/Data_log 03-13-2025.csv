@@ -1,4 +1,4 @@
-V_bat,conductivity(µS),pH,turbidity (NTU),temperature (°C),,,
+V_bat,conductivity(µS/cm),pH,turbidity (NTU),temperature (°C),,,
 8.92,0,5.33,0,24.25,,,
 8.33,0,5.39,0,24.25,,,
 8.37,0,5.36,0,24.25,,,
